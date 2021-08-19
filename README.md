@@ -10,7 +10,7 @@ My focus of studies at the moment is web development using Python in the backend
 
 
 
-No, I don't have only 3 repositories and few commits.
+No, I don't have only 4 repositories and few commits.
 
 My repositories are private due to confidential project information.
 
